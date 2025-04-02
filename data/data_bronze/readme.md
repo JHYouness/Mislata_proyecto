@@ -8,17 +8,8 @@ La carpeta \`data_bronze\` contiene los datos originales (o mínimamente transfo
 
 ## 📄 Contenido actual
 
-### 1. **CSV_datos_Sol.csv**
-Datos relacionados con información solar capturados desde la fuente original. Incluyen métricas como la irradiancia, temperatura ambiente, etc.
-
-### 2. **entidad_sensor_mislata.csv**
-Información recopilada desde sensores específicos localizados en Mislata. Incluye lecturas ambientales, calidad del aire, temperatura, humedad, entre otros.
-
-### 3. **entidad_sensor_sensor.csv**
-Dataset con lecturas generales obtenidas de diversos sensores. incluye mediciones de temperatura, presión, humedad y otros datos ambientales capturados en tiempo real.
-
-### 4. **entidad_weather_forecast.csv**
-Contiene datos de predicción meteorológica proporcionados por fuentes externas. Los datos pueden incluir previsiones de temperatura, lluvia, viento, etc.
+### **Todos los ficheros contienen las mismas columnas:**
+Datos relacionados con información solar capturados desde la fuente original. Incluyen métricas como datatime, el identificador, estado de la altura del sol y los atributos 
 
 ## 🚩 Próximos pasos
 
