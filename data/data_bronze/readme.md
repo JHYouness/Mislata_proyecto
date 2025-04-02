@@ -8,7 +8,6 @@ La carpeta \`data_bronze\` contiene los datos originales (o mínimamente transfo
 
 ## 📄 Contenido actual
 
-### **Todos los ficheros contienen las mismas columnas:**
 Todos los ficheros contienen las mismas columnas, datos capturados desde la fuente original. Incluyen las siguientes metricas:
 - Datatime
 - Identificador
