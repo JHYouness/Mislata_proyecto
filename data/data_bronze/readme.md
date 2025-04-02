@@ -1,6 +1,6 @@
 # 📁 Data Bronze
 
-Esta carpeta forma parte del proyecto **Mislata_proyecto** y corresponde a la primera etapa (bronze) dentro de la metodología de gestión de datos (bronze-silver-gold).
+Esta carpeta corresponde a la primera etapa (bronze) dentro de la metodología de gestión de datos (bronze-silver-gold).
 
 ## 📌 Objetivo de la carpeta
 
@@ -12,10 +12,10 @@ La carpeta \`data_bronze\` contiene los datos originales (o mínimamente transfo
 Datos relacionados con información solar capturados desde la fuente original. Incluyen métricas como la irradiancia, temperatura ambiente, etc.
 
 ### 2. **entidad_sensor_mislata.csv**
-Información recopilada desde sensores específicos localizados en Mislata. Puede incluir lecturas ambientales, calidad del aire, temperatura, humedad, entre otros.
+Información recopilada desde sensores específicos localizados en Mislata. Incluye lecturas ambientales, calidad del aire, temperatura, humedad, entre otros.
 
 ### 3. **entidad_sensor_sensor.csv**
-Dataset con lecturas generales obtenidas de diversos sensores. Posiblemente incluye mediciones de temperatura, presión, humedad y otros datos ambientales capturados en tiempo real.
+Dataset con lecturas generales obtenidas de diversos sensores. incluye mediciones de temperatura, presión, humedad y otros datos ambientales capturados en tiempo real.
 
 ### 4. **entidad_weather_forecast.csv**
 Contiene datos de predicción meteorológica proporcionados por fuentes externas. Los datos pueden incluir previsiones de temperatura, lluvia, viento, etc.
