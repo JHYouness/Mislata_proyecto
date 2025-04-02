@@ -9,7 +9,11 @@ La carpeta \`data_bronze\` contiene los datos originales (o mínimamente transfo
 ## 📄 Contenido actual
 
 ### **Todos los ficheros contienen las mismas columnas:**
-Datos relacionados con información solar capturados desde la fuente original. Incluyen métricas como datatime, el identificador, estado de la altura del sol y los atributos 
+Todos los ficheros contienen las mismas columnas, datos capturados desde la fuente original. Incluyen las siguientes metricas:
+- Datatime
+- Identificador
+- Estado de la altura del sol
+- Atributos
 
 ## 🚩 Próximos pasos
 
