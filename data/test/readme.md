@@ -1,4 +1,4 @@
 # Aqui se haran los testeos
 
-## YOUNESS los archivos final_silver_actualizado.csv y final_silver_completado.csv son para probar a entrenar el modelo, no los borres pofi
+## NO BORRAR el archivo final_silver_sustituido.csv es para crear el modelo de regresión de los sensores 3 y 4.
 
