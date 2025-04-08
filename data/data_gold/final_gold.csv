@@ -1,4 +1,4 @@
-time,sensor_puerta_1 Puerta,suma_ventanas_arriba,suma_ventanas_abajo,azimuth_mean,elevation_mean,temperature_mean,cloud_coverage_mean,temperature ℃,media_humedad,media_presion,media_temperatura
+time,sensor_puerta_1 Puerta,suma_ventanas_arriba,suma_ventanas_abajo,azimuth_mean,elevacion_sol,temperatura_exterior,porcentaje_nubes,temperatura_calefaccion_y,media_humedad,media_presion,media_temperatura
 2024-12-10 21:00:00,0.0,0.0,0.0,285.41,-53.48,12.5,100.0,21.7,46.42,1014.39,19.7
 2024-12-11 07:00:00,0.0,0.0,0.0,122.93,2.68,7.7,93.0,19.6,50.96,1014.08,19.36
 2024-12-11 08:00:00,0.0,0.0,0.0,131.9,10.43,7.8,49.0,19.6,56.3,1015.02,21.08
