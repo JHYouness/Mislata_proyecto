@@ -36,3 +36,6 @@ para ello, necesitamos:
 | `°C`   | Grados Celsius. Se utiliza para medir la temperatura. |
 | `hPa`  | Hectopascales. Unidad de presión atmosférica. 1 hPa = 100 pascales. Común en meteorología. |
 | `%`    | Porcentaje. Usado para medir la humedad relativa del aire. |
+
+## Acciones realizadas por el equipo
+Después de seleccionar las entidades interesantes y realizar las correspondientes limpiezas, juntamos las variables en un mismo csv para entregarlo al modelo que predecirá la temperatura del aula. Para ello hemos eliminado el sensor 4 y hemos hecho la media de las temperatuas, humedades y presiones.
