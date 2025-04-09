@@ -580,7 +580,7 @@ sensor.sensor_temperatura_1_humidity,2025-01-03 19:00:00,52.62
 sensor.sensor_temperatura_1_humidity,2025-01-03 20:00:00,52.75
 sensor.sensor_temperatura_1_humidity,2025-01-03 21:00:00,53.05
 sensor.sensor_temperatura_1_humidity,2025-01-03 22:00:00,53.92
-sensor.sensor_temperatura_1_humidity,2025-01-03 23:00:00,54.24
+sensor.sensor_temperatura_1_humidity,2025-01-03 23:00:00,54.23
 sensor.sensor_temperatura_1_humidity,2025-01-04 00:00:00,54.46
 sensor.sensor_temperatura_1_humidity,2025-01-04 01:00:00,54.56
 sensor.sensor_temperatura_1_humidity,2025-01-04 02:00:00,54.56
@@ -671,7 +671,7 @@ sensor.sensor_temperatura_1_humidity,2025-01-07 14:00:00,43.19
 sensor.sensor_temperatura_1_humidity,2025-01-07 15:00:00,48.48
 sensor.sensor_temperatura_1_humidity,2025-01-07 16:00:00,51.97
 sensor.sensor_temperatura_1_humidity,2025-01-07 17:00:00,51.08
-sensor.sensor_temperatura_1_humidity,2025-01-07 18:00:00,52.84
+sensor.sensor_temperatura_1_humidity,2025-01-07 18:00:00,52.85
 sensor.sensor_temperatura_1_humidity,2025-01-07 19:00:00,53.71
 sensor.sensor_temperatura_1_humidity,2025-01-07 20:00:00,48.34
 sensor.sensor_temperatura_1_humidity,2025-01-07 21:00:00,47.48
@@ -1034,7 +1034,7 @@ sensor.sensor_temperatura_1_humidity,2025-01-22 18:00:00,45.71
 sensor.sensor_temperatura_1_humidity,2025-01-22 19:00:00,47.34
 sensor.sensor_temperatura_1_humidity,2025-01-22 20:00:00,47.94
 sensor.sensor_temperatura_1_humidity,2025-01-22 21:00:00,48.77
-sensor.sensor_temperatura_1_humidity,2025-01-22 22:00:00,49.3
+sensor.sensor_temperatura_1_humidity,2025-01-22 22:00:00,49.31
 sensor.sensor_temperatura_1_humidity,2025-01-22 23:00:00,49.51
 sensor.sensor_temperatura_1_humidity,2025-01-23 00:00:00,49.69
 sensor.sensor_temperatura_1_humidity,2025-01-23 01:00:00,49.64
@@ -1177,7 +1177,7 @@ sensor.sensor_temperatura_1_humidity,2025-01-28 17:00:00,33.96
 sensor.sensor_temperatura_1_humidity,2025-01-28 18:00:00,34.0
 sensor.sensor_temperatura_1_humidity,2025-01-28 19:00:00,35.14
 sensor.sensor_temperatura_1_humidity,2025-01-28 20:00:00,35.65
-sensor.sensor_temperatura_1_humidity,2025-01-28 21:00:00,35.48
+sensor.sensor_temperatura_1_humidity,2025-01-28 21:00:00,35.49
 sensor.sensor_temperatura_1_humidity,2025-01-28 22:00:00,35.57
 sensor.sensor_temperatura_1_humidity,2025-01-28 23:00:00,35.86
 sensor.sensor_temperatura_1_humidity,2025-01-29 00:00:00,36.24
@@ -1488,7 +1488,7 @@ sensor.sensor_temperatura_1_humidity,2025-02-10 16:00:00,56.6
 sensor.sensor_temperatura_1_humidity,2025-02-10 17:00:00,54.94
 sensor.sensor_temperatura_1_humidity,2025-02-10 18:00:00,55.81
 sensor.sensor_temperatura_1_humidity,2025-02-10 19:00:00,57.56
-sensor.sensor_temperatura_1_humidity,2025-02-10 20:00:00,57.3
+sensor.sensor_temperatura_1_humidity,2025-02-10 20:00:00,57.31
 sensor.sensor_temperatura_1_humidity,2025-02-10 21:00:00,56.29
 sensor.sensor_temperatura_1_humidity,2025-02-10 22:00:00,54.88
 sensor.sensor_temperatura_1_humidity,2025-02-10 23:00:00,54.32
@@ -2172,7 +2172,7 @@ sensor.sensor_temperatura_1_humidity,2025-03-11 08:00:00,50.54
 sensor.sensor_temperatura_1_humidity,2025-03-11 09:00:00,49.07
 sensor.sensor_temperatura_1_humidity,2025-03-11 10:00:00,48.38
 sensor.sensor_temperatura_1_humidity,2025-03-11 11:00:00,47.52
-sensor.sensor_temperatura_1_humidity,2025-03-11 12:00:00,46.76
+sensor.sensor_temperatura_1_humidity,2025-03-11 12:00:00,46.77
 sensor.sensor_temperatura_1_humidity,2025-03-11 13:00:00,45.94
 sensor.sensor_temperatura_1_humidity,2025-03-11 14:00:00,44.15
 sensor.sensor_temperatura_1_humidity,2025-03-11 15:00:00,49.88
@@ -2466,7 +2466,7 @@ sensor.sensor_temperatura_1_humidity,2025-03-23 15:00:00,37.98
 sensor.sensor_temperatura_1_humidity,2025-03-23 16:00:00,37.52
 sensor.sensor_temperatura_1_humidity,2025-03-23 17:00:00,38.41
 sensor.sensor_temperatura_1_humidity,2025-03-23 18:00:00,39.75
-sensor.sensor_temperatura_1_humidity,2025-03-23 19:00:00,41.12
+sensor.sensor_temperatura_1_humidity,2025-03-23 19:00:00,41.13
 sensor.sensor_temperatura_1_humidity,2025-03-23 20:00:00,42.42
 sensor.sensor_temperatura_1_humidity,2025-03-23 21:00:00,43.74
 sensor.sensor_temperatura_1_humidity,2025-03-23 22:00:00,43.99
@@ -2654,7 +2654,7 @@ sensor.sensor_temperatura_1_pressure,2024-12-18 23:00:00,1020.43
 sensor.sensor_temperatura_1_pressure,2024-12-19 00:00:00,1019.97
 sensor.sensor_temperatura_1_pressure,2024-12-19 01:00:00,1019.15
 sensor.sensor_temperatura_1_pressure,2024-12-19 02:00:00,1018.88
-sensor.sensor_temperatura_1_pressure,2024-12-19 03:00:00,1018.44
+sensor.sensor_temperatura_1_pressure,2024-12-19 03:00:00,1018.43
 sensor.sensor_temperatura_1_pressure,2024-12-19 04:00:00,1018.04
 sensor.sensor_temperatura_1_pressure,2024-12-19 05:00:00,1017.95
 sensor.sensor_temperatura_1_pressure,2024-12-19 06:00:00,1017.4
@@ -4631,7 +4631,7 @@ sensor.sensor_temperatura_1_pressure,2025-03-23 07:00:00,1002.7
 sensor.sensor_temperatura_1_pressure,2025-03-23 08:00:00,1002.8
 sensor.sensor_temperatura_1_pressure,2025-03-23 09:00:00,1003.0
 sensor.sensor_temperatura_1_pressure,2025-03-23 10:00:00,1003.17
-sensor.sensor_temperatura_1_pressure,2025-03-23 11:00:00,1002.7
+sensor.sensor_temperatura_1_pressure,2025-03-23 11:00:00,1002.71
 sensor.sensor_temperatura_1_pressure,2025-03-23 12:00:00,1002.33
 sensor.sensor_temperatura_1_pressure,2025-03-23 13:00:00,1001.4
 sensor.sensor_temperatura_1_pressure,2025-03-23 14:00:00,1001.55
@@ -4780,7 +4780,7 @@ sensor.sensor_temperatura_1_temperature,2024-12-15 13:00:00,16.5
 sensor.sensor_temperatura_1_temperature,2024-12-15 14:00:00,16.54
 sensor.sensor_temperatura_1_temperature,2024-12-15 15:00:00,16.55
 sensor.sensor_temperatura_1_temperature,2024-12-15 16:00:00,16.56
-sensor.sensor_temperatura_1_temperature,2024-12-15 17:00:00,16.57
+sensor.sensor_temperatura_1_temperature,2024-12-15 17:00:00,16.56
 sensor.sensor_temperatura_1_temperature,2024-12-15 18:00:00,16.55
 sensor.sensor_temperatura_1_temperature,2024-12-15 19:00:00,16.54
 sensor.sensor_temperatura_1_temperature,2024-12-15 20:00:00,16.54
@@ -4816,7 +4816,7 @@ sensor.sensor_temperatura_1_temperature,2024-12-17 02:00:00,17.39
 sensor.sensor_temperatura_1_temperature,2024-12-17 03:00:00,17.28
 sensor.sensor_temperatura_1_temperature,2024-12-17 04:00:00,17.14
 sensor.sensor_temperatura_1_temperature,2024-12-17 05:00:00,16.98
-sensor.sensor_temperatura_1_temperature,2024-12-17 06:00:00,17.3
+sensor.sensor_temperatura_1_temperature,2024-12-17 06:00:00,17.29
 sensor.sensor_temperatura_1_temperature,2024-12-17 07:00:00,18.65
 sensor.sensor_temperatura_1_temperature,2024-12-17 08:00:00,19.95
 sensor.sensor_temperatura_1_temperature,2024-12-17 09:00:00,20.06
@@ -5644,7 +5644,7 @@ sensor.sensor_temperatura_1_temperature,2025-01-21 02:00:00,17.54
 sensor.sensor_temperatura_1_temperature,2025-01-21 03:00:00,17.45
 sensor.sensor_temperatura_1_temperature,2025-01-21 04:00:00,17.41
 sensor.sensor_temperatura_1_temperature,2025-01-21 05:00:00,17.34
-sensor.sensor_temperatura_1_temperature,2025-01-21 06:00:00,17.36
+sensor.sensor_temperatura_1_temperature,2025-01-21 06:00:00,17.37
 sensor.sensor_temperatura_1_temperature,2025-01-21 07:00:00,18.16
 sensor.sensor_temperatura_1_temperature,2025-01-21 08:00:00,19.3
 sensor.sensor_temperatura_1_temperature,2025-01-21 09:00:00,19.6
@@ -6335,7 +6335,7 @@ sensor.sensor_temperatura_1_temperature,2025-02-19 03:00:00,20.34
 sensor.sensor_temperatura_1_temperature,2025-02-19 04:00:00,20.26
 sensor.sensor_temperatura_1_temperature,2025-02-19 05:00:00,20.2
 sensor.sensor_temperatura_1_temperature,2025-02-19 06:00:00,20.07
-sensor.sensor_temperatura_1_temperature,2025-02-19 07:00:00,20.44
+sensor.sensor_temperatura_1_temperature,2025-02-19 07:00:00,20.45
 sensor.sensor_temperatura_1_temperature,2025-02-19 08:00:00,21.38
 sensor.sensor_temperatura_1_temperature,2025-02-19 09:00:00,21.8
 sensor.sensor_temperatura_1_temperature,2025-02-19 10:00:00,21.83
@@ -6837,7 +6837,7 @@ sensor.sensor_temperatura_1_temperature,2025-03-12 08:00:00,20.01
 sensor.sensor_temperatura_1_temperature,2025-03-12 09:00:00,20.11
 sensor.sensor_temperatura_1_temperature,2025-03-12 10:00:00,20.08
 sensor.sensor_temperatura_1_temperature,2025-03-12 11:00:00,20.2
-sensor.sensor_temperatura_1_temperature,2025-03-12 12:00:00,20.42
+sensor.sensor_temperatura_1_temperature,2025-03-12 12:00:00,20.43
 sensor.sensor_temperatura_1_temperature,2025-03-12 13:00:00,20.18
 sensor.sensor_temperatura_1_temperature,2025-03-12 14:00:00,19.9
 sensor.sensor_temperatura_1_temperature,2025-03-12 15:00:00,20.36
@@ -7094,7 +7094,7 @@ sensor.sensor_temperatura_1_temperature,2025-03-23 03:00:00,17.75
 sensor.sensor_temperatura_1_temperature,2025-03-23 04:00:00,17.77
 sensor.sensor_temperatura_1_temperature,2025-03-23 05:00:00,17.74
 sensor.sensor_temperatura_1_temperature,2025-03-23 06:00:00,17.68
-sensor.sensor_temperatura_1_temperature,2025-03-23 07:00:00,17.69
+sensor.sensor_temperatura_1_temperature,2025-03-23 07:00:00,17.68
 sensor.sensor_temperatura_1_temperature,2025-03-23 08:00:00,17.65
 sensor.sensor_temperatura_1_temperature,2025-03-23 09:00:00,17.56
 sensor.sensor_temperatura_1_temperature,2025-03-23 10:00:00,17.47
@@ -7410,7 +7410,7 @@ sensor.sensor_temperatura_2_humidity,2024-12-22 04:00:00,42.7
 sensor.sensor_temperatura_2_humidity,2024-12-22 05:00:00,42.68
 sensor.sensor_temperatura_2_humidity,2024-12-22 06:00:00,42.65
 sensor.sensor_temperatura_2_humidity,2024-12-22 07:00:00,42.58
-sensor.sensor_temperatura_2_humidity,2024-12-22 08:00:00,42.77
+sensor.sensor_temperatura_2_humidity,2024-12-22 08:00:00,42.76
 sensor.sensor_temperatura_2_humidity,2024-12-22 09:00:00,43.01
 sensor.sensor_temperatura_2_humidity,2024-12-22 10:00:00,42.87
 sensor.sensor_temperatura_2_humidity,2024-12-22 11:00:00,42.66
@@ -7893,7 +7893,7 @@ sensor.sensor_temperatura_2_humidity,2025-01-11 08:00:00,52.41
 sensor.sensor_temperatura_2_humidity,2025-01-11 09:00:00,53.35
 sensor.sensor_temperatura_2_humidity,2025-01-11 10:00:00,53.99
 sensor.sensor_temperatura_2_humidity,2025-01-11 11:00:00,53.98
-sensor.sensor_temperatura_2_humidity,2025-01-11 12:00:00,52.98
+sensor.sensor_temperatura_2_humidity,2025-01-11 12:00:00,52.99
 sensor.sensor_temperatura_2_humidity,2025-01-11 13:00:00,50.85
 sensor.sensor_temperatura_2_humidity,2025-01-11 14:00:00,48.32
 sensor.sensor_temperatura_2_humidity,2025-01-11 15:00:00,46.83
@@ -8107,7 +8107,7 @@ sensor.sensor_temperatura_2_humidity,2025-01-20 06:00:00,45.39
 sensor.sensor_temperatura_2_humidity,2025-01-20 07:00:00,49.38
 sensor.sensor_temperatura_2_humidity,2025-01-20 08:00:00,50.87
 sensor.sensor_temperatura_2_humidity,2025-01-20 09:00:00,48.6
-sensor.sensor_temperatura_2_humidity,2025-01-20 10:00:00,49.2
+sensor.sensor_temperatura_2_humidity,2025-01-20 10:00:00,49.19
 sensor.sensor_temperatura_2_humidity,2025-01-20 11:00:00,51.3
 sensor.sensor_temperatura_2_humidity,2025-01-20 12:00:00,50.62
 sensor.sensor_temperatura_2_humidity,2025-01-20 13:00:00,48.65
@@ -8931,7 +8931,7 @@ sensor.sensor_temperatura_2_humidity,2025-02-23 14:00:00,55.74
 sensor.sensor_temperatura_2_humidity,2025-02-23 15:00:00,54.66
 sensor.sensor_temperatura_2_humidity,2025-02-23 16:00:00,54.22
 sensor.sensor_temperatura_2_humidity,2025-02-23 17:00:00,53.64
-sensor.sensor_temperatura_2_humidity,2025-02-23 18:00:00,53.2
+sensor.sensor_temperatura_2_humidity,2025-02-23 18:00:00,53.21
 sensor.sensor_temperatura_2_humidity,2025-02-23 19:00:00,52.84
 sensor.sensor_temperatura_2_humidity,2025-02-23 20:00:00,52.74
 sensor.sensor_temperatura_2_humidity,2025-02-23 21:00:00,52.38
@@ -8968,7 +8968,7 @@ sensor.sensor_temperatura_2_humidity,2025-02-25 03:00:00,43.28
 sensor.sensor_temperatura_2_humidity,2025-02-25 04:00:00,43.7
 sensor.sensor_temperatura_2_humidity,2025-02-25 05:00:00,44.03
 sensor.sensor_temperatura_2_humidity,2025-02-25 06:00:00,44.82
-sensor.sensor_temperatura_2_humidity,2025-02-25 07:00:00,45.56
+sensor.sensor_temperatura_2_humidity,2025-02-25 07:00:00,45.57
 sensor.sensor_temperatura_2_humidity,2025-02-25 08:00:00,42.07
 sensor.sensor_temperatura_2_humidity,2025-02-25 09:00:00,42.6
 sensor.sensor_temperatura_2_humidity,2025-02-25 10:00:00,42.98
@@ -9232,7 +9232,7 @@ sensor.sensor_temperatura_2_humidity,2025-03-08 06:00:00,69.29
 sensor.sensor_temperatura_2_humidity,2025-03-08 07:00:00,69.36
 sensor.sensor_temperatura_2_humidity,2025-03-08 08:00:00,69.63
 sensor.sensor_temperatura_2_humidity,2025-03-08 09:00:00,70.05
-sensor.sensor_temperatura_2_humidity,2025-03-08 10:00:00,70.44
+sensor.sensor_temperatura_2_humidity,2025-03-08 10:00:00,70.43
 sensor.sensor_temperatura_2_humidity,2025-03-08 11:00:00,70.62
 sensor.sensor_temperatura_2_humidity,2025-03-08 12:00:00,70.74
 sensor.sensor_temperatura_2_humidity,2025-03-08 13:00:00,70.72
@@ -9241,11 +9241,11 @@ sensor.sensor_temperatura_2_humidity,2025-03-08 15:00:00,71.06
 sensor.sensor_temperatura_2_humidity,2025-03-08 16:00:00,71.42
 sensor.sensor_temperatura_2_humidity,2025-03-08 17:00:00,71.69
 sensor.sensor_temperatura_2_humidity,2025-03-08 18:00:00,71.7
-sensor.sensor_temperatura_2_humidity,2025-03-08 19:00:00,71.89
+sensor.sensor_temperatura_2_humidity,2025-03-08 19:00:00,71.88
 sensor.sensor_temperatura_2_humidity,2025-03-08 20:00:00,71.93
 sensor.sensor_temperatura_2_humidity,2025-03-08 21:00:00,71.92
 sensor.sensor_temperatura_2_humidity,2025-03-08 22:00:00,69.08
-sensor.sensor_temperatura_2_humidity,2025-03-08 23:00:00,66.91
+sensor.sensor_temperatura_2_humidity,2025-03-08 23:00:00,66.92
 sensor.sensor_temperatura_2_humidity,2025-03-09 00:00:00,65.67
 sensor.sensor_temperatura_2_humidity,2025-03-09 01:00:00,64.59
 sensor.sensor_temperatura_2_humidity,2025-03-09 02:00:00,60.7
@@ -9349,7 +9349,7 @@ sensor.sensor_temperatura_2_humidity,2025-03-13 03:00:00,45.34
 sensor.sensor_temperatura_2_humidity,2025-03-13 04:00:00,45.67
 sensor.sensor_temperatura_2_humidity,2025-03-13 05:00:00,45.51
 sensor.sensor_temperatura_2_humidity,2025-03-13 06:00:00,45.85
-sensor.sensor_temperatura_2_humidity,2025-03-13 07:00:00,46.08
+sensor.sensor_temperatura_2_humidity,2025-03-13 07:00:00,46.09
 sensor.sensor_temperatura_2_humidity,2025-03-13 08:00:00,45.79
 sensor.sensor_temperatura_2_humidity,2025-03-13 09:00:00,45.72
 sensor.sensor_temperatura_2_humidity,2025-03-13 10:00:00,46.34
@@ -9554,7 +9554,7 @@ sensor.sensor_temperatura_2_humidity,2025-03-21 16:00:00,44.08
 sensor.sensor_temperatura_2_humidity,2025-03-21 17:00:00,45.1
 sensor.sensor_temperatura_2_humidity,2025-03-21 18:00:00,46.4
 sensor.sensor_temperatura_2_humidity,2025-03-21 19:00:00,47.7
-sensor.sensor_temperatura_2_humidity,2025-03-21 20:00:00,48.89
+sensor.sensor_temperatura_2_humidity,2025-03-21 20:00:00,48.88
 sensor.sensor_temperatura_2_humidity,2025-03-21 21:00:00,50.35
 sensor.sensor_temperatura_2_humidity,2025-03-21 22:00:00,51.4
 sensor.sensor_temperatura_2_humidity,2025-03-21 23:00:00,52.06
@@ -9591,7 +9591,7 @@ sensor.sensor_temperatura_2_humidity,2025-03-23 05:00:00,47.45
 sensor.sensor_temperatura_2_humidity,2025-03-23 06:00:00,47.38
 sensor.sensor_temperatura_2_humidity,2025-03-23 07:00:00,47.02
 sensor.sensor_temperatura_2_humidity,2025-03-23 08:00:00,46.64
-sensor.sensor_temperatura_2_humidity,2025-03-23 09:00:00,45.94
+sensor.sensor_temperatura_2_humidity,2025-03-23 09:00:00,45.95
 sensor.sensor_temperatura_2_humidity,2025-03-23 10:00:00,43.39
 sensor.sensor_temperatura_2_humidity,2025-03-23 11:00:00,41.72
 sensor.sensor_temperatura_2_humidity,2025-03-23 12:00:00,40.65
@@ -10490,7 +10490,7 @@ sensor.sensor_temperatura_2_pressure,2025-01-16 22:00:00,1022.0
 sensor.sensor_temperatura_2_pressure,2025-01-16 23:00:00,1022.15
 sensor.sensor_temperatura_2_pressure,2025-01-17 00:00:00,1021.6
 sensor.sensor_temperatura_2_pressure,2025-01-17 01:00:00,1021.55
-sensor.sensor_temperatura_2_pressure,2025-01-17 02:00:00,1021.58
+sensor.sensor_temperatura_2_pressure,2025-01-17 02:00:00,1021.57
 sensor.sensor_temperatura_2_pressure,2025-01-17 03:00:00,1021.33
 sensor.sensor_temperatura_2_pressure,2025-01-17 04:00:00,1021.7
 sensor.sensor_temperatura_2_pressure,2025-01-17 05:00:00,1021.55
@@ -12477,7 +12477,7 @@ sensor.sensor_temperatura_2_temperature,2024-12-29 07:00:00,12.97
 sensor.sensor_temperatura_2_temperature,2024-12-29 08:00:00,12.7
 sensor.sensor_temperatura_2_temperature,2024-12-29 09:00:00,12.5
 sensor.sensor_temperatura_2_temperature,2024-12-29 10:00:00,12.6
-sensor.sensor_temperatura_2_temperature,2024-12-29 11:00:00,12.86
+sensor.sensor_temperatura_2_temperature,2024-12-29 11:00:00,12.87
 sensor.sensor_temperatura_2_temperature,2024-12-29 12:00:00,13.01
 sensor.sensor_temperatura_2_temperature,2024-12-29 13:00:00,13.12
 sensor.sensor_temperatura_2_temperature,2024-12-29 14:00:00,13.2
@@ -13190,7 +13190,7 @@ sensor.sensor_temperatura_2_temperature,2025-01-28 03:00:00,17.64
 sensor.sensor_temperatura_2_temperature,2025-01-28 04:00:00,17.44
 sensor.sensor_temperatura_2_temperature,2025-01-28 05:00:00,17.27
 sensor.sensor_temperatura_2_temperature,2025-01-28 06:00:00,17.24
-sensor.sensor_temperatura_2_temperature,2025-01-28 07:00:00,18.26
+sensor.sensor_temperatura_2_temperature,2025-01-28 07:00:00,18.27
 sensor.sensor_temperatura_2_temperature,2025-01-28 08:00:00,19.54
 sensor.sensor_temperatura_2_temperature,2025-01-28 09:00:00,19.22
 sensor.sensor_temperatura_2_temperature,2025-01-28 10:00:00,18.26
@@ -13846,7 +13846,7 @@ sensor.sensor_temperatura_2_temperature,2025-02-24 15:00:00,20.93
 sensor.sensor_temperatura_2_temperature,2025-02-24 16:00:00,21.3
 sensor.sensor_temperatura_2_temperature,2025-02-24 17:00:00,21.32
 sensor.sensor_temperatura_2_temperature,2025-02-24 18:00:00,20.97
-sensor.sensor_temperatura_2_temperature,2025-02-24 19:00:00,20.66
+sensor.sensor_temperatura_2_temperature,2025-02-24 19:00:00,20.67
 sensor.sensor_temperatura_2_temperature,2025-02-24 20:00:00,20.05
 sensor.sensor_temperatura_2_temperature,2025-02-24 21:00:00,20.04
 sensor.sensor_temperatura_2_temperature,2025-02-24 22:00:00,19.69
@@ -14150,7 +14150,7 @@ sensor.sensor_temperatura_2_temperature,2025-03-09 11:00:00,16.26
 sensor.sensor_temperatura_2_temperature,2025-03-09 12:00:00,16.48
 sensor.sensor_temperatura_2_temperature,2025-03-09 13:00:00,16.7
 sensor.sensor_temperatura_2_temperature,2025-03-09 14:00:00,16.99
-sensor.sensor_temperatura_2_temperature,2025-03-09 15:00:00,17.23
+sensor.sensor_temperatura_2_temperature,2025-03-09 15:00:00,17.22
 sensor.sensor_temperatura_2_temperature,2025-03-09 16:00:00,17.19
 sensor.sensor_temperatura_2_temperature,2025-03-09 17:00:00,17.15
 sensor.sensor_temperatura_2_temperature,2025-03-09 18:00:00,17.1
@@ -15036,7 +15036,7 @@ sensor.sensor_temperatura_3_humidity,2025-02-08 04:00:00,45.04
 sensor.sensor_temperatura_3_humidity,2025-02-08 05:00:00,45.66
 sensor.sensor_temperatura_3_humidity,2025-02-08 06:00:00,45.95
 sensor.sensor_temperatura_3_humidity,2025-02-08 07:00:00,45.71
-sensor.sensor_temperatura_3_humidity,2025-02-08 08:00:00,45.7
+sensor.sensor_temperatura_3_humidity,2025-02-08 08:00:00,45.69
 sensor.sensor_temperatura_3_humidity,2025-02-08 09:00:00,45.71
 sensor.sensor_temperatura_3_humidity,2025-02-08 10:00:00,41.62
 sensor.sensor_temperatura_3_humidity,2025-02-08 11:00:00,36.34
@@ -15315,7 +15315,7 @@ sensor.sensor_temperatura_3_humidity,2025-02-19 20:00:00,56.88
 sensor.sensor_temperatura_3_humidity,2025-02-19 21:00:00,56.38
 sensor.sensor_temperatura_3_humidity,2025-02-19 22:00:00,55.9
 sensor.sensor_temperatura_3_humidity,2025-02-19 23:00:00,55.77
-sensor.sensor_temperatura_3_humidity,2025-02-20 00:00:00,55.66
+sensor.sensor_temperatura_3_humidity,2025-02-20 00:00:00,55.67
 sensor.sensor_temperatura_3_humidity,2025-02-20 01:00:00,55.52
 sensor.sensor_temperatura_3_humidity,2025-02-20 02:00:00,55.52
 sensor.sensor_temperatura_3_humidity,2025-02-20 03:00:00,55.5
@@ -15639,7 +15639,7 @@ sensor.sensor_temperatura_3_humidity,2025-03-05 08:00:00,71.97
 sensor.sensor_temperatura_3_humidity,2025-03-05 09:00:00,71.87
 sensor.sensor_temperatura_3_humidity,2025-03-05 10:00:00,72.34
 sensor.sensor_temperatura_3_humidity,2025-03-05 11:00:00,72.45
-sensor.sensor_temperatura_3_humidity,2025-03-05 12:00:00,72.2
+sensor.sensor_temperatura_3_humidity,2025-03-05 12:00:00,72.21
 sensor.sensor_temperatura_3_humidity,2025-03-05 13:00:00,72.37
 sensor.sensor_temperatura_3_humidity,2025-03-05 14:00:00,72.81
 sensor.sensor_temperatura_3_humidity,2025-03-05 15:00:00,73.07
@@ -15801,7 +15801,7 @@ sensor.sensor_temperatura_3_humidity,2025-03-12 04:00:00,51.08
 sensor.sensor_temperatura_3_humidity,2025-03-12 05:00:00,50.3
 sensor.sensor_temperatura_3_humidity,2025-03-12 06:00:00,49.87
 sensor.sensor_temperatura_3_humidity,2025-03-12 07:00:00,49.97
-sensor.sensor_temperatura_3_humidity,2025-03-12 08:00:00,48.88
+sensor.sensor_temperatura_3_humidity,2025-03-12 08:00:00,48.87
 sensor.sensor_temperatura_3_humidity,2025-03-12 09:00:00,46.06
 sensor.sensor_temperatura_3_humidity,2025-03-12 10:00:00,43.44
 sensor.sensor_temperatura_3_humidity,2025-03-12 11:00:00,42.04
@@ -15858,7 +15858,7 @@ sensor.sensor_temperatura_3_humidity,2025-03-14 13:00:00,52.96
 sensor.sensor_temperatura_3_humidity,2025-03-14 14:00:00,53.01
 sensor.sensor_temperatura_3_humidity,2025-03-14 15:00:00,52.33
 sensor.sensor_temperatura_3_humidity,2025-03-14 16:00:00,51.77
-sensor.sensor_temperatura_3_humidity,2025-03-14 17:00:00,52.06
+sensor.sensor_temperatura_3_humidity,2025-03-14 17:00:00,52.07
 sensor.sensor_temperatura_3_humidity,2025-03-14 18:00:00,52.13
 sensor.sensor_temperatura_3_humidity,2025-03-14 19:00:00,51.75
 sensor.sensor_temperatura_3_humidity,2025-03-14 20:00:00,51.54
@@ -15986,7 +15986,7 @@ sensor.sensor_temperatura_3_humidity,2025-03-19 21:00:00,71.86
 sensor.sensor_temperatura_3_humidity,2025-03-19 22:00:00,72.98
 sensor.sensor_temperatura_3_humidity,2025-03-19 23:00:00,73.06
 sensor.sensor_temperatura_3_humidity,2025-03-20 00:00:00,72.96
-sensor.sensor_temperatura_3_humidity,2025-03-20 01:00:00,72.92
+sensor.sensor_temperatura_3_humidity,2025-03-20 01:00:00,72.93
 sensor.sensor_temperatura_3_humidity,2025-03-20 02:00:00,72.96
 sensor.sensor_temperatura_3_humidity,2025-03-20 03:00:00,72.2
 sensor.sensor_temperatura_3_humidity,2025-03-20 04:00:00,72.6
@@ -18440,7 +18440,7 @@ sensor.sensor_temperatura_3_temperature,2025-02-20 08:00:00,20.92
 sensor.sensor_temperatura_3_temperature,2025-02-20 09:00:00,21.36
 sensor.sensor_temperatura_3_temperature,2025-02-20 10:00:00,20.99
 sensor.sensor_temperatura_3_temperature,2025-02-20 11:00:00,21.48
-sensor.sensor_temperatura_3_temperature,2025-02-20 12:00:00,21.8
+sensor.sensor_temperatura_3_temperature,2025-02-20 12:00:00,21.81
 sensor.sensor_temperatura_3_temperature,2025-02-20 13:00:00,21.59
 sensor.sensor_temperatura_3_temperature,2025-02-20 14:00:00,21.03
 sensor.sensor_temperatura_3_temperature,2025-02-20 15:00:00,21.4
@@ -19017,7 +19017,7 @@ sensor.sensor_temperatura_3_temperature,2025-03-16 17:00:00,17.32
 sensor.sensor_temperatura_3_temperature,2025-03-16 18:00:00,17.27
 sensor.sensor_temperatura_3_temperature,2025-03-16 19:00:00,17.27
 sensor.sensor_temperatura_3_temperature,2025-03-16 20:00:00,17.23
-sensor.sensor_temperatura_3_temperature,2025-03-16 21:00:00,17.22
+sensor.sensor_temperatura_3_temperature,2025-03-16 21:00:00,17.21
 sensor.sensor_temperatura_3_temperature,2025-03-16 22:00:00,17.22
 sensor.sensor_temperatura_3_temperature,2025-03-16 23:00:00,17.18
 sensor.sensor_temperatura_3_temperature,2025-03-17 00:00:00,17.12
@@ -19193,7 +19193,7 @@ sensor.sensor_temperatura_3_temperature,2025-03-24 02:00:00,17.68
 sensor.sensor_temperatura_3_temperature,2025-03-24 03:00:00,17.6
 sensor.sensor_temperatura_3_temperature,2025-03-24 04:00:00,17.58
 sensor.sensor_temperatura_3_temperature,2025-03-24 05:00:00,17.57
-sensor.sensor_temperatura_3_temperature,2025-03-24 06:00:00,17.54
+sensor.sensor_temperatura_3_temperature,2025-03-24 06:00:00,17.53
 sensor.sensor_temperatura_3_temperature,2025-03-24 07:00:00,18.15
 sensor.sensor_temperatura_3_temperature,2025-03-24 08:00:00,18.48
 sensor.sensor_temperatura_3_temperature,2025-03-24 09:00:00,18.74
@@ -19881,7 +19881,7 @@ sensor.sensor_temperatura_4_humidity,2025-02-14 09:00:00,55.07
 sensor.sensor_temperatura_4_humidity,2025-02-14 10:00:00,49.3
 sensor.sensor_temperatura_4_humidity,2025-02-14 11:00:00,50.54
 sensor.sensor_temperatura_4_humidity,2025-02-14 12:00:00,49.75
-sensor.sensor_temperatura_4_humidity,2025-02-14 13:00:00,47.39
+sensor.sensor_temperatura_4_humidity,2025-02-14 13:00:00,47.38
 sensor.sensor_temperatura_4_humidity,2025-02-14 14:00:00,47.88
 sensor.sensor_temperatura_4_humidity,2025-02-14 15:00:00,49.0
 sensor.sensor_temperatura_4_humidity,2025-02-14 16:00:00,49.66
@@ -19944,7 +19944,7 @@ sensor.sensor_temperatura_4_humidity,2025-02-17 00:00:00,58.12
 sensor.sensor_temperatura_4_humidity,2025-02-17 01:00:00,58.3
 sensor.sensor_temperatura_4_humidity,2025-02-17 02:00:00,58.1
 sensor.sensor_temperatura_4_humidity,2025-02-17 03:00:00,58.02
-sensor.sensor_temperatura_4_humidity,2025-02-17 04:00:00,57.88
+sensor.sensor_temperatura_4_humidity,2025-02-17 04:00:00,57.89
 sensor.sensor_temperatura_4_humidity,2025-02-17 05:00:00,57.56
 sensor.sensor_temperatura_4_humidity,2025-02-17 06:00:00,57.2
 sensor.sensor_temperatura_4_humidity,2025-02-17 07:00:00,58.12
@@ -20149,7 +20149,7 @@ sensor.sensor_temperatura_4_humidity,2025-02-25 13:00:00,44.38
 sensor.sensor_temperatura_4_humidity,2025-02-25 14:00:00,44.38
 sensor.sensor_temperatura_4_humidity,2025-02-25 15:00:00,49.72
 sensor.sensor_temperatura_4_humidity,2025-02-25 16:00:00,53.14
-sensor.sensor_temperatura_4_humidity,2025-02-25 17:00:00,51.12
+sensor.sensor_temperatura_4_humidity,2025-02-25 17:00:00,51.13
 sensor.sensor_temperatura_4_humidity,2025-02-25 18:00:00,49.33
 sensor.sensor_temperatura_4_humidity,2025-02-25 19:00:00,47.58
 sensor.sensor_temperatura_4_humidity,2025-02-25 20:00:00,43.96
@@ -20212,7 +20212,7 @@ sensor.sensor_temperatura_4_humidity,2025-02-28 04:00:00,41.78
 sensor.sensor_temperatura_4_humidity,2025-02-28 05:00:00,40.9
 sensor.sensor_temperatura_4_humidity,2025-02-28 06:00:00,40.14
 sensor.sensor_temperatura_4_humidity,2025-02-28 07:00:00,38.87
-sensor.sensor_temperatura_4_humidity,2025-02-28 08:00:00,38.74
+sensor.sensor_temperatura_4_humidity,2025-02-28 08:00:00,38.75
 sensor.sensor_temperatura_4_humidity,2025-02-28 09:00:00,41.72
 sensor.sensor_temperatura_4_humidity,2025-02-28 10:00:00,47.29
 sensor.sensor_temperatura_4_humidity,2025-02-28 11:00:00,51.48
@@ -20338,14 +20338,14 @@ sensor.sensor_temperatura_4_humidity,2025-03-05 10:00:00,71.8
 sensor.sensor_temperatura_4_humidity,2025-03-05 11:00:00,72.1
 sensor.sensor_temperatura_4_humidity,2025-03-05 12:00:00,71.82
 sensor.sensor_temperatura_4_humidity,2025-03-05 13:00:00,71.74
-sensor.sensor_temperatura_4_humidity,2025-03-05 14:00:00,72.08
+sensor.sensor_temperatura_4_humidity,2025-03-05 14:00:00,72.09
 sensor.sensor_temperatura_4_humidity,2025-03-05 15:00:00,72.36
 sensor.sensor_temperatura_4_humidity,2025-03-05 16:00:00,72.56
 sensor.sensor_temperatura_4_humidity,2025-03-05 17:00:00,73.05
 sensor.sensor_temperatura_4_humidity,2025-03-05 18:00:00,73.58
 sensor.sensor_temperatura_4_humidity,2025-03-05 19:00:00,74.28
 sensor.sensor_temperatura_4_humidity,2025-03-05 20:00:00,74.57
-sensor.sensor_temperatura_4_humidity,2025-03-05 21:00:00,74.72
+sensor.sensor_temperatura_4_humidity,2025-03-05 21:00:00,74.71
 sensor.sensor_temperatura_4_humidity,2025-03-05 22:00:00,75.04
 sensor.sensor_temperatura_4_humidity,2025-03-05 23:00:00,75.18
 sensor.sensor_temperatura_4_humidity,2025-03-06 00:00:00,75.1
@@ -20510,7 +20510,7 @@ sensor.sensor_temperatura_4_humidity,2025-03-12 15:00:00,42.4
 sensor.sensor_temperatura_4_humidity,2025-03-12 16:00:00,43.42
 sensor.sensor_temperatura_4_humidity,2025-03-12 17:00:00,43.08
 sensor.sensor_temperatura_4_humidity,2025-03-12 18:00:00,40.61
-sensor.sensor_temperatura_4_humidity,2025-03-12 19:00:00,42.16
+sensor.sensor_temperatura_4_humidity,2025-03-12 19:00:00,42.17
 sensor.sensor_temperatura_4_humidity,2025-03-12 20:00:00,43.35
 sensor.sensor_temperatura_4_humidity,2025-03-12 21:00:00,42.8
 sensor.sensor_temperatura_4_humidity,2025-03-12 22:00:00,42.18
@@ -20601,7 +20601,7 @@ sensor.sensor_temperatura_4_humidity,2025-03-16 10:00:00,43.99
 sensor.sensor_temperatura_4_humidity,2025-03-16 11:00:00,44.67
 sensor.sensor_temperatura_4_humidity,2025-03-16 12:00:00,45.18
 sensor.sensor_temperatura_4_humidity,2025-03-16 13:00:00,45.6
-sensor.sensor_temperatura_4_humidity,2025-03-16 14:00:00,46.71
+sensor.sensor_temperatura_4_humidity,2025-03-16 14:00:00,46.7
 sensor.sensor_temperatura_4_humidity,2025-03-16 15:00:00,47.5
 sensor.sensor_temperatura_4_humidity,2025-03-16 16:00:00,48.3
 sensor.sensor_temperatura_4_humidity,2025-03-16 17:00:00,49.4
@@ -20722,7 +20722,7 @@ sensor.sensor_temperatura_4_humidity,2025-03-21 11:00:00,61.77
 sensor.sensor_temperatura_4_humidity,2025-03-21 12:00:00,55.44
 sensor.sensor_temperatura_4_humidity,2025-03-21 13:00:00,48.3
 sensor.sensor_temperatura_4_humidity,2025-03-21 14:00:00,46.25
-sensor.sensor_temperatura_4_humidity,2025-03-21 15:00:00,44.9
+sensor.sensor_temperatura_4_humidity,2025-03-21 15:00:00,44.91
 sensor.sensor_temperatura_4_humidity,2025-03-21 16:00:00,44.88
 sensor.sensor_temperatura_4_humidity,2025-03-21 17:00:00,45.42
 sensor.sensor_temperatura_4_humidity,2025-03-21 18:00:00,46.56
@@ -21240,7 +21240,7 @@ sensor.sensor_temperatura_4_pressure,2025-02-05 07:00:00,1028.07
 sensor.sensor_temperatura_4_pressure,2025-02-05 08:00:00,1028.45
 sensor.sensor_temperatura_4_pressure,2025-02-05 09:00:00,1028.65
 sensor.sensor_temperatura_4_pressure,2025-02-05 10:00:00,1028.7
-sensor.sensor_temperatura_4_pressure,2025-02-05 11:00:00,1028.42
+sensor.sensor_temperatura_4_pressure,2025-02-05 11:00:00,1028.43
 sensor.sensor_temperatura_4_pressure,2025-02-05 12:00:00,1027.75
 sensor.sensor_temperatura_4_pressure,2025-02-05 13:00:00,1027.07
 sensor.sensor_temperatura_4_pressure,2025-02-05 14:00:00,1026.54
@@ -22854,7 +22854,7 @@ sensor.sensor_temperatura_4_temperature,2025-02-08 04:00:00,18.2
 sensor.sensor_temperatura_4_temperature,2025-02-08 05:00:00,18.22
 sensor.sensor_temperatura_4_temperature,2025-02-08 06:00:00,18.14
 sensor.sensor_temperatura_4_temperature,2025-02-08 07:00:00,18.07
-sensor.sensor_temperatura_4_temperature,2025-02-08 08:00:00,17.96
+sensor.sensor_temperatura_4_temperature,2025-02-08 08:00:00,17.97
 sensor.sensor_temperatura_4_temperature,2025-02-08 09:00:00,17.98
 sensor.sensor_temperatura_4_temperature,2025-02-08 10:00:00,17.85
 sensor.sensor_temperatura_4_temperature,2025-02-08 11:00:00,17.8
@@ -22942,7 +22942,7 @@ sensor.sensor_temperatura_4_temperature,2025-02-11 20:00:00,20.28
 sensor.sensor_temperatura_4_temperature,2025-02-11 21:00:00,19.9
 sensor.sensor_temperatura_4_temperature,2025-02-11 22:00:00,19.62
 sensor.sensor_temperatura_4_temperature,2025-02-11 23:00:00,19.39
-sensor.sensor_temperatura_4_temperature,2025-02-12 00:00:00,19.32
+sensor.sensor_temperatura_4_temperature,2025-02-12 00:00:00,19.33
 sensor.sensor_temperatura_4_temperature,2025-02-12 01:00:00,19.25
 sensor.sensor_temperatura_4_temperature,2025-02-12 02:00:00,19.18
 sensor.sensor_temperatura_4_temperature,2025-02-12 03:00:00,19.14
@@ -23014,7 +23014,7 @@ sensor.sensor_temperatura_4_temperature,2025-02-14 20:00:00,20.2
 sensor.sensor_temperatura_4_temperature,2025-02-14 21:00:00,20.15
 sensor.sensor_temperatura_4_temperature,2025-02-14 22:00:00,20.11
 sensor.sensor_temperatura_4_temperature,2025-02-14 23:00:00,20.08
-sensor.sensor_temperatura_4_temperature,2025-02-15 00:00:00,20.0
+sensor.sensor_temperatura_4_temperature,2025-02-15 00:00:00,20.01
 sensor.sensor_temperatura_4_temperature,2025-02-15 01:00:00,19.94
 sensor.sensor_temperatura_4_temperature,2025-02-15 02:00:00,19.88
 sensor.sensor_temperatura_4_temperature,2025-02-15 03:00:00,19.8
@@ -23125,7 +23125,7 @@ sensor.sensor_temperatura_4_temperature,2025-02-19 12:00:00,22.13
 sensor.sensor_temperatura_4_temperature,2025-02-19 13:00:00,21.62
 sensor.sensor_temperatura_4_temperature,2025-02-19 14:00:00,21.17
 sensor.sensor_temperatura_4_temperature,2025-02-19 15:00:00,21.77
-sensor.sensor_temperatura_4_temperature,2025-02-19 16:00:00,22.16
+sensor.sensor_temperatura_4_temperature,2025-02-19 16:00:00,22.17
 sensor.sensor_temperatura_4_temperature,2025-02-19 17:00:00,21.95
 sensor.sensor_temperatura_4_temperature,2025-02-19 18:00:00,22.27
 sensor.sensor_temperatura_4_temperature,2025-02-19 19:00:00,22.39
@@ -23744,7 +23744,7 @@ sensor.sensor_temperatura_4_temperature,2025-03-17 12:00:00,16.44
 sensor.sensor_temperatura_4_temperature,2025-03-17 13:00:00,16.42
 sensor.sensor_temperatura_4_temperature,2025-03-17 14:00:00,16.39
 sensor.sensor_temperatura_4_temperature,2025-03-17 15:00:00,16.36
-sensor.sensor_temperatura_4_temperature,2025-03-17 16:00:00,16.32
+sensor.sensor_temperatura_4_temperature,2025-03-17 16:00:00,16.31
 sensor.sensor_temperatura_4_temperature,2025-03-17 17:00:00,16.26
 sensor.sensor_temperatura_4_temperature,2025-03-17 18:00:00,16.24
 sensor.sensor_temperatura_4_temperature,2025-03-17 19:00:00,16.2
@@ -23821,7 +23821,7 @@ sensor.sensor_temperatura_4_temperature,2025-03-20 18:00:00,18.57
 sensor.sensor_temperatura_4_temperature,2025-03-20 19:00:00,18.06
 sensor.sensor_temperatura_4_temperature,2025-03-20 20:00:00,17.6
 sensor.sensor_temperatura_4_temperature,2025-03-20 21:00:00,17.39
-sensor.sensor_temperatura_4_temperature,2025-03-20 22:00:00,17.27
+sensor.sensor_temperatura_4_temperature,2025-03-20 22:00:00,17.28
 sensor.sensor_temperatura_4_temperature,2025-03-20 23:00:00,17.21
 sensor.sensor_temperatura_4_temperature,2025-03-21 00:00:00,17.18
 sensor.sensor_temperatura_4_temperature,2025-03-21 01:00:00,17.15
@@ -23835,7 +23835,7 @@ sensor.sensor_temperatura_4_temperature,2025-03-21 08:00:00,17.74
 sensor.sensor_temperatura_4_temperature,2025-03-21 09:00:00,18.75
 sensor.sensor_temperatura_4_temperature,2025-03-21 10:00:00,19.12
 sensor.sensor_temperatura_4_temperature,2025-03-21 11:00:00,19.19
-sensor.sensor_temperatura_4_temperature,2025-03-21 12:00:00,19.3
+sensor.sensor_temperatura_4_temperature,2025-03-21 12:00:00,19.29
 sensor.sensor_temperatura_4_temperature,2025-03-21 13:00:00,19.54
 sensor.sensor_temperatura_4_temperature,2025-03-21 14:00:00,19.73
 sensor.sensor_temperatura_4_temperature,2025-03-21 15:00:00,19.91
@@ -23843,7 +23843,7 @@ sensor.sensor_temperatura_4_temperature,2025-03-21 16:00:00,19.98
 sensor.sensor_temperatura_4_temperature,2025-03-21 17:00:00,20.07
 sensor.sensor_temperatura_4_temperature,2025-03-21 18:00:00,20.1
 sensor.sensor_temperatura_4_temperature,2025-03-21 19:00:00,20.22
-sensor.sensor_temperatura_4_temperature,2025-03-21 20:00:00,19.66
+sensor.sensor_temperatura_4_temperature,2025-03-21 20:00:00,19.67
 sensor.sensor_temperatura_4_temperature,2025-03-21 21:00:00,19.15
 sensor.sensor_temperatura_4_temperature,2025-03-21 22:00:00,18.9
 sensor.sensor_temperatura_4_temperature,2025-03-21 23:00:00,18.71
@@ -23878,7 +23878,7 @@ sensor.sensor_temperatura_4_temperature,2025-03-23 03:00:00,17.78
 sensor.sensor_temperatura_4_temperature,2025-03-23 04:00:00,17.79
 sensor.sensor_temperatura_4_temperature,2025-03-23 05:00:00,17.74
 sensor.sensor_temperatura_4_temperature,2025-03-23 06:00:00,17.71
-sensor.sensor_temperatura_4_temperature,2025-03-23 07:00:00,17.7
+sensor.sensor_temperatura_4_temperature,2025-03-23 07:00:00,17.71
 sensor.sensor_temperatura_4_temperature,2025-03-23 08:00:00,17.69
 sensor.sensor_temperatura_4_temperature,2025-03-23 09:00:00,17.61
 sensor.sensor_temperatura_4_temperature,2025-03-23 10:00:00,17.55
