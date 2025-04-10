@@ -140,10 +140,17 @@ Este proyecto está pensado para ser desarrollado por estudiantes con objetivos 
 ## 📁 Estructura del Repositorio (recomendada)
 
 ```bash
-📦 eficiencia-energetica/
-├── data/                   # Datos crudos y procesados
-├── notebooks/              # Análisis exploratorio y modelos
-├── src/                    # Código fuente (scripts, modelos, etc.)
-├── docs/                   # Documentación técnica y explicativa
-├── README.md               # Este archivo
-└── requirements.txt        # Dependencias del proyecto
+Mislata_proyecto-main/
+├── airflow/                     # Definición de DAGs para ETLs
+├── data/
+│   ├── data_bronze/             # Datos crudos
+│   ├── data_silver/             # Datos transformados e imputados
+│   ├── data_gold/               # Datos listos para informes y dashboards
+│   ├── predictions/             # Resultados de modelos predictivos
+│   └── test/                    # Archivos de prueba
+├── docs/                        # Documentación complementaria
+├── models/                      # Modelos de IA entrenados
+├── notebooks/                   # Análisis y notebooks de desarrollo
+├── token/                       # Tokens de autenticación (protegido)
+├── README.md                    # Este archivo
+└── requirements.txt             # Dependencias del proyecto
