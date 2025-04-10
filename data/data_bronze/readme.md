@@ -1,4 +1,4 @@
-# 📁 Data Bronze
+# 📁 Data Bronze 🥉
 
 Esta carpeta corresponde a la primera etapa (bronze) dentro de la metodología de gestión de datos (bronze-silver-gold).
 
@@ -17,8 +17,3 @@ Todos los ficheros contienen las mismas columnas, datos capturados desde la fuen
 ## 🚩 Próximos pasos
 
 Los datos de esta carpeta serán procesados y limpiados para pasar a la capa \`data_silver\`, donde se almacenarán versiones más estructuradas y limpias para su posterior análisis y visualización en \`data_gold\`.
-
----
-
-📌 **Nota:** Mantén esta carpeta con los datos originales sin modificaciones significativas. Cualquier transformación o limpieza profunda deberá realizarse en etapas posteriores (silver o gold).
-EOF
