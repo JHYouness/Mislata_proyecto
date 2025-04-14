@@ -133,7 +133,8 @@ Modelar si la calefacción está activa según los datos:
 
 ## 👩‍🏫 Participantes
 
-Este proyecto está pensado para ser desarrollado por estudiantes con objetivos tanto técnicos como de concienciación energética.
+Este proyecto se ha desarrollado por un grupo de estudiantes del curso de especializacion de Inteligencia Artificial y Big Data.
+Youness El Jylaly, Yeray Rubio, Gabriel Rodriguez, Pablo Calvo.
 
 ---
 
@@ -151,6 +152,6 @@ Mislata_proyecto-main/
 ├── docs/                        # Documentación complementaria
 ├── models/                      # Modelos de IA entrenados
 ├── notebooks/                   # Análisis y notebooks de desarrollo
-├── token/                       # Tokens de autenticación (protegido)
+├── token                        # Token de autenticación
 ├── README.md                    # Este archivo
 └── requirements.txt             # Dependencias del proyecto
