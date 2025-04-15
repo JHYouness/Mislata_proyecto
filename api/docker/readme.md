@@ -2,8 +2,9 @@
 
 Este proyecto implementa una **API en Flask** que utiliza dos modelos de redes neuronales entrenados con TensorFlow/Keras para:
 
-- 🔮 Predecir la temperatura que habrá en una hora.
-- 🚪 Predecir si las ventanas o la puerta estarán abiertas.
+- 🔮 Predecir la temperatura en la sala que determina la calefacción.
+  
+- 🚪 Predecir si las ventanas o la puerta estarán abiertas. (En caso de que la calefacción esté encendida)
 
 ---
 
@@ -16,20 +17,11 @@ Ambos modelos están entrenados con variables meteorológicas y de sensores fís
 
 ---
 
-## 📁 Estructura del proyecto
-
-
----
-
-## 🚀 Cómo ejecutar localmente (sin Docker)
+## 🚀 Cómo ejecutar localmente 
 
 ### 1. Crear entorno virtual y activarlo
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-
-
 docker pull younessdrfaustibarbera/sensores-api:latest
 docker run -p 5000:5000 younessdrfaustibarbera/sensores-api:latest
 
