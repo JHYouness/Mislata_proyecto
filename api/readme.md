@@ -1,4 +1,4 @@
-# 🌬️ API de Predicción de Apertura de Ventanas
+# 🏆 API de Predicción de Apertura de Ventanas
 
 Esta API predice si **las ventanas estarán abiertas en la próxima hora** usando datos de sensores y condiciones meteorológicas. Para ello, realiza dos pasos:
 
