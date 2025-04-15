@@ -32,8 +32,7 @@ Realiza la predicción a partir de los últimos 100 registros del dataset públi
   "Predicción": [
     {
       "alerta": "Cerrado"
-    },
-    ...
+    }
   ]
 }
 ```
