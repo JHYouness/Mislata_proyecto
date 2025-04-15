@@ -139,8 +139,7 @@ Youness El Jylaly, Yeray Rubio, Gabriel Rodriguez, Pablo Calvo.
 
 ---
 
-## 📁 Estructura del Repositorio (recomendada)
-
+## 📁 Estructura del Repositorio
 ```bash
 Mislata_proyecto-main/
 ├── airflow/                     # Definición de DAGs para ETLs
