@@ -1,3 +1,10 @@
+
+# 📄 Docs
+Este directorio contiene la documentación y gráficas en las que nos hemos ido apoyando en el transcurso del proyecto.
+
+
+---
+
 # Proyecto: Monitoreo de Sensores y Predicción de Temperatura
 
 ## Consultas útiles
