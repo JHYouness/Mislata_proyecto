@@ -37,7 +37,7 @@ Los modelos entrenados se guardan en este directorio con el siguiente nombre:
 ```bash
 ├── Codigo Models/
 │   ├── modelo_final.ipynb             # Entrenamiento de modelo final
-│   └──  modelo_si_la_venta_o_puerta_esta_abierta.ipynb             # Entrenamiento de primer modelo
+│   └──  modelo_temperatura.ipynb             # Entrenamiento de primer modelo
 ├── model_predicciones_se_abrira.keras          # Modelo final exportado (clasificación)
 ├── model_predict_temperaturas.keras            # Modelo predicción temperatura exportado (regresión)
 └── readme.md                                   # Este archivo
