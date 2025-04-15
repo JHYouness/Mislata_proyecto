@@ -13,10 +13,7 @@ Esta carpeta contiene los datasets refinados o parcialmente transformados del pr
 - `csv_colab/`: Archivos CSV generados o procesados en Google Colab, usados como apoyo en la fase silver.
 - `Historico_temperaturas.csv`: Dataset con el histórico de temperaturas ambientales en la aula
 - `final_silver.csv`: Versión consolidada de los datos en la capa silver antes de predecir sensores o aplicar sustituciones.
-- `final_silver_sustituido.csv`: Versión con datos faltantes o erróneos ya sustituidos por valores estimados o interpolados.
-- `final_silver_sensores_predichos.csv`: Contiene predicciones generadas para sensores ausentes, como ventanas o puertas abiertas.
-- `final_silver_v2.csv`: Última versión de consolidación con todos los datos integrados, corregidos y listos para pasar a la capa gold.
-
+  
 ## Propósito
 
 La capa silver es fundamental para garantizar que los datos que lleguen a la fase de análisis final (gold) estén correctamente depurados. Aquí se realizan tareas como:
