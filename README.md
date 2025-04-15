@@ -1,6 +1,7 @@
 # 🌱 Proyecto Eficiencia Energética
 
-Este proyecto tiene como objetivo mejorar la eficiencia energética en nuestro centro educativo mediante la monitorización y análisis del uso de la calefacción y el aire acondicionado en las aulas. Se utilizan sensores IoT y técnicas de análisis de datos para detectar situaciones en las que se pierde energía, como puertas o ventanas abiertas mientras el sistema de climatización está encendido.
+Este proyecto tiene como objetivo mejorar la eficiencia energética en nuestro centro educativo mediante la monitorización y análisis del uso de la calefacción y el aire acondicionado en las aulas. 
+Se utilizan sensores IoT y técnicas de análisis de datos para detectar situaciones en las que se pierde energía, como puertas o ventanas abiertas mientras el sistema de climatización está encendido.
 
 ---
 
