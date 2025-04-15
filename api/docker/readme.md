@@ -9,8 +9,8 @@ Este proyecto implementa una **API en Flask** que utiliza dos modelos de redes n
 
 ## 🧠 Modelos utilizados
 
-- `model_predict_temperaturas.h5`: modelo de regresión para temperatura futura.
-- `model_predicciones_se_abrira.h5`: modelo de clasificación binaria (ventana/puerta abierta o no).
+- `model_predict_temperaturas.keras`: modelo de regresión para temperatura futura.
+- `model_predicciones_se_abrira.keras`: modelo de clasificación binaria (ventana/puerta abierta o no).
 
 Ambos modelos están entrenados con variables meteorológicas y de sensores físicos.
 
