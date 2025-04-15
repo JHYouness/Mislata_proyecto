@@ -31,7 +31,7 @@ Realiza la predicción a partir de los últimos 100 registros del dataset públi
 {
   "Predicción": [
     {
-      "alerta": "Cerrado"
+      "alerta": "En la próxima hora las ventanas estarán abiertas"
     }
   ]
 }
