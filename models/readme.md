@@ -14,7 +14,7 @@ Notebook principal que entrena y guarda el modelo que predice si la puerta va a 
 - Evalúa varias redes neuronales y elegimos en función de las métricas.
 - Normaliza los datos
 
-### 🔹 `modelo_si_la_venta_o_puerta_esta_abierta.ipynb`
+### 🔹 `modelo_temperatura.ipynb`
 
 Notebook enfocado en clasificación binaria: predice si un estado es *abierto* o *cerrado* según sensores y condiciones.  
 - Usa los datos procesados de la capa *gold* y los limpia ligeramente para que se adapten al problema (limita de 7:00 a 21:00).  
