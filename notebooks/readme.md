@@ -1,37 +1,43 @@
 # 📓 Notebooks
 
-Este directorio contiene los notebooks utilizados para el desarrollo, limpieza, análisis y entrenamiento de modelos.
+Este directorio contiene el notebook principal de limpieza, coge los datos _raw_ y los formatea y limpia hasta dejarlos en .
 
-## Contenido
 
-### 🔹 `limpieza_silver.ipynb`
+# Notebook `Colab_sensores.ipynb`
+
+## Contenido de Colab_sensores.ipynb
+### 🔹 `Limpieza bronze`
+
+- Formateamos los datos, dada la columna de atributos se desglosa y pivotamos con su contenido.
+
+---
+
+### 🔹 `Limpieza silver`
 Limpieza de los datos provenientes de la capa *bronze*, generando la capa *silver*.
 
 - Limpiamos y formateamos datos
 - Agrupamos en 1 hora
 - Eliminamos registros no disponibles
-- Añadimos la y_true
+- Añadimos la y_true al dataframe principal
 
 ---
 
-### 🔹 `limpieza_gold.ipynb`
-Notebook dedicado a la limpieza final de los datos antes de su uso en informes, dashboards o análisis exploratorios. Trabaja sobre los datos de la capa *gold*.
+### 🔹 `Limpieza gold`
+Notebook dedicado a la limpieza final de los datos antes de usarlo en entrenamiento de modelos. Trabaja sobre los datos de la capa *gold*.
 
-- Validación de formatos
-- Eliminación de outliers restantes
-- Normalización final de columnas
-- Generación de dataset listo para visualización
+- Sustituimos la entidad de forecast/mislata por la API de https://open-meteo.com/
+- Limpiamos datos y nulos
+- Creamos un modelo de regresión lineal para 
 
 ---
 
-### 🔹 `limpieza_modelo_temperatura.ipynb`
+
+# Notebook `limpieza_modelo_temperatura.ipynb`
 Preprocesamiento específico de los datos requeridos para entrenar un modelo de predicción de temperatura.
 
 - Selección de variables relevantes
 - Imputación de valores faltantes
 - Ajustes específicos para modelado
-
-
 
 ---
 
