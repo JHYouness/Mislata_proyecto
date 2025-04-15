@@ -55,7 +55,7 @@ Este proyecto tiene como objetivo mejorar la eficiencia energética en nuestro c
 
 ---
 
-## 📋 Tareas del Proyecto
+## 📋 TODO List del Proyecto
 
 ### ✅ Tarea 1: Objetivo del Proyecto
 
@@ -70,8 +70,8 @@ Este proyecto tiene como objetivo mejorar la eficiencia energética en nuestro c
 - Resumen de sensores por hora:
   - Temperatura, presión, humedad.
   - Estado de puertas y ventanas.
-  - Consumo eléctrico.
   - Temperatura de la calefacción.
+  - Datos extra...
 
 ---
 
@@ -133,7 +133,7 @@ Modelar si la calefacción está activa según los datos:
 
 ## 👩‍🏫 Participantes
 
-Este proyecto se ha desarrollado por un grupo de estudiantes del curso de especializacion de Inteligencia Artificial y Big Data.
+Este proyecto se ha desarrollado por un grupo de estudiantes del curso de especializacion de Inteligencia Artificial y Big Data:
 Youness El Jylaly, Yeray Rubio, Gabriel Rodriguez, Pablo Calvo.
 
 ---
