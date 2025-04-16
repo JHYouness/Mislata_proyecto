@@ -132,6 +132,23 @@ Modelar si la calefacción está activa según los datos:
 
 ---
 
+## 📦 Extra
+
+### 🌀 Apache Airflow
+
+- **URL**: [http://localhost:8080](http://localhost:8080)
+- **Descripción**: Utilizado para la orquestación y ejecución de procesos ETL mediante DAGs en entorno local.
+
+### 📬 Postman
+
+- **Uso**: Herramienta empleada para realizar peticiones HTTP a la API desarrollada y comprobar su correcto funcionamiento.
+
+### 🐳 Docker
+
+- **Uso**: Se ha utilizado para contenerizar el modelo de predicción. El contenedor ha sido subido a Docker Hub y se realizan peticiones al modelo desde Postman.
+
+---
+
 ## 👩‍🏫 Participantes
 
 Este proyecto se ha desarrollado por un grupo de estudiantes del curso de especializacion de Inteligencia Artificial y Big Data:
