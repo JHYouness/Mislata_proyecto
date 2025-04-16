@@ -9,7 +9,7 @@ Este directorio contiene los archivos relacionados con el entrenamiento y evalua
 ### 🔹 `modelo_final.ipynb`
 
 Notebook principal que entrena y guarda el modelo que predice si la puerta va a ser abierta en la siguiente hora.  
-- Usa los datos procesados de la capa *gold* y los limpia ligeramente para que se adapten al problema (limita de 7:00 a 21:00).  
+- Usa los datos procesados de la capa *gold* y los limpia ligeramente para que se adapten al problema.  
 - Guarda los modelos resultantes en formato `.keras`.  
 - Evalúa varias redes neuronales y elegimos en función de las métricas.
 - Normaliza los datos
