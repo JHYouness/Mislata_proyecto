@@ -35,8 +35,10 @@ Realiza la predicción a partir del último registro.
     }
   ]
 }
+```
 
 #### Respuesta esperada en caso de que la calefacción este apagada:
+```json
 {
   "Predicción": [
     {
