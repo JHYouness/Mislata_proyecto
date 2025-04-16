@@ -16,7 +16,7 @@ Este notebook carga un modelo previamente entrenado (`model_predict_temperaturas
 
 El resultado es una nueva columna en el dataset: `temperatura_predicha`.
 
-### 2. `modelo_ventanas.ipynb`
+### 2. `modelo_final.ipynb`
 Entrena un modelo de clasificación binaria que predice si las ventanas estarán abiertas durante la siguiente hora. Utiliza como entrada el dataset enriquecido con la `temperatura_predicha`.
 
 El flujo incluye:
