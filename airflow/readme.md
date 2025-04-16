@@ -1,6 +1,4 @@
-# 🌀 Proyecto Airflow - Limpieza ETL para Mislata
-
-Este módulo forma parte del proyecto `Mislata_proyecto`, y está dedicado a la ejecución de tareas ETL automatizadas utilizando Apache Airflow.
+# 🌀 Airflow - Limpieza ETL para Mislata
 
 ---
 
