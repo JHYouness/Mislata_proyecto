@@ -146,14 +146,15 @@ Este proyecto se ha desarrollado por un grupo de estudiantes del curso de especi
 ```bash
 Mislata_proyecto-main/
 ├── airflow/                     # Definición de DAGs para ETLs
+├── api/                         # Código de la API en flask
 ├── data/
 │   ├── data_bronze/             # Datos crudos
 │   ├── data_silver/             # Datos transformados e imputados
 │   ├── data_gold/               # Datos listos para informes y dashboards
-│   ├── predictions/             # Resultados de modelos predictivos
 │   └── test/                    # Archivos de prueba
 ├── docs/                        # Documentación complementaria
 ├── models/                      # Modelos de IA entrenados
+│   └── Codigo Models/           # Entrenamiento de los modelos y últimos retoques a los datos
 ├── notebooks/                   # Análisis y notebooks de desarrollo
 ├── token                        # Token de autenticación
 ├── README.md                    # Este archivo
