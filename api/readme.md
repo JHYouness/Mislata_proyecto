@@ -35,6 +35,16 @@ Realiza la predicción a partir del último registro.
     }
   ]
 }
+
+#### Respuesta esperada en caso de que la calefacción este apagada:
+```json
+{
+  "Predicción": [
+    {
+      "alerta": "En la próxima hora la calefacción estará apagada"
+    }
+  ]
+}
 ```
 
 > ⚠️ La predicción es booleana: `True` si se espera que las ventanas se abran, `False` en caso contrario.
