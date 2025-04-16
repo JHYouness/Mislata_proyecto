@@ -1,6 +1,6 @@
 # Predicción de Apertura de Ventanas en la Próxima Hora
 
-Este repositorio contiene dos notebooks que trabajan en conjunto para predecir si las ventanas se abrirán en la próxima hora, utilizando sensores ambientales, variables meteorológicas y modelos de machine learning.
+Este directorio contiene dos notebooks que trabajan en conjunto para predecir si las ventanas se abrirán en la próxima hora, utilizando sensores, variables meteorológicas y modelos de machine learning.
 
 ## 📘 Notebooks incluidos
 
