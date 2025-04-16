@@ -135,8 +135,11 @@ Modelar si la calefacción está activa según los datos:
 ## 👩‍🏫 Participantes
 
 Este proyecto se ha desarrollado por un grupo de estudiantes del curso de especializacion de Inteligencia Artificial y Big Data:
-Youness El Jylaly, Yeray Rubio, Gabriel Rodriguez, Pablo Calvo.
-
+- Youness El Jylaly
+- Yeray RUbio
+- Gabriel Rodriguez
+- Pablo Calvo
+  
 ---
 
 ## 📁 Estructura del Repositorio
