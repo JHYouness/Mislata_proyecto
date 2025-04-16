@@ -4,7 +4,7 @@ Este directorio contiene dos notebooks que trabajan en conjunto para predecir si
 
 ## 📘 Notebooks incluidos
 
-### 1. `01_prediccion_temperatura.ipynb`
+### 1. `modelo_temperatura.ipynb`
 Este notebook carga un modelo previamente entrenado (`model_predict_temperaturas.keras`) para predecir la temperatura esperada en el futuro cercano, usando como entrada múltiples variables ambientales:
 
 - Humedad, presión y temperatura de sensores
@@ -16,7 +16,7 @@ Este notebook carga un modelo previamente entrenado (`model_predict_temperaturas
 
 El resultado es una nueva columna en el dataset: `temperatura_predicha`.
 
-### 2. `02_modelo_clasificacion_ventanas.ipynb`
+### 2. `modelo_ventanas.ipynb`
 Entrena un modelo de clasificación binaria que predice si las ventanas estarán abiertas durante la siguiente hora. Utiliza como entrada el dataset enriquecido con la `temperatura_predicha`.
 
 El flujo incluye:
