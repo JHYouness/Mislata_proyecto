@@ -24,7 +24,7 @@ Esta API predice si **las ventanas estarán abiertas en la próxima hora** usand
 
 ### `GET /predict_windows`
 
-Realiza la predicción a partir de los últimos 100 registros del dataset público.
+Realiza la predicción a partir del último registro.
 
 #### Respuesta esperada:
 ```json
