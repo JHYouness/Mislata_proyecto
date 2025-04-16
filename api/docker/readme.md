@@ -1,4 +1,4 @@
-# 🌡️ Proyecto Sensores - API con Flask + Docker
+# 🌡️ API con Flask + Docker
 
 Este proyecto implementa una **API en Flask** que utiliza dos modelos de redes neuronales entrenados con TensorFlow/Keras para:
 
