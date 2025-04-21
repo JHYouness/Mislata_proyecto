@@ -29,7 +29,7 @@ Este notebook entrena un modelo para predecir la temperatura futura en la siguie
 
 #### **Resultados del modelo:**
 
-Configuración: Sensor 1, con variables de sol, hora, estación y mes. Dataset no filtrado (incluye horas nocturnas y findes).
+Configuración: Dataset no filtrado (incluye horas nocturnas y findes).
 
 - `loss`: **0.0998**
 - `mae`: **0.2517**
