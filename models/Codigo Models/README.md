@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada y más completa del `README.md` para un trabajo serio de instituto, incluyendo los resultados de los modelos y mejorando la redacción para mayor claridad y formalidad:
-
----
-
 # 📡 Predicción de Apertura de Ventanas en la Próxima Hora
 
 Este directorio contiene los notebooks para entrenar a los modelos de predicción de apertura de ventanas en la siguiente hora. 
